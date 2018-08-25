@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="读取文件" 
+                HorizontalAlignment="Left" 
+                Margin="46,122,0,0" 
+                VerticalAlignment="Top" 
+                Width="147" 
+                Height="65"
+                Click="Button_Click"/>
+
     </Grid>
 </Window>
